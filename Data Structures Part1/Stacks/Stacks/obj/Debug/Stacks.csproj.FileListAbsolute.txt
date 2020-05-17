@@ -1,0 +1,6 @@
+D:\Tutorials\Data Structure Exercises\Stacks\Stacks\bin\Debug\Stacks.exe.config
+D:\Tutorials\Data Structure Exercises\Stacks\Stacks\bin\Debug\Stacks.exe
+D:\Tutorials\Data Structure Exercises\Stacks\Stacks\bin\Debug\Stacks.pdb
+D:\Tutorials\Data Structure Exercises\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+D:\Tutorials\Data Structure Exercises\Stacks\Stacks\obj\Debug\Stacks.exe
+D:\Tutorials\Data Structure Exercises\Stacks\Stacks\obj\Debug\Stacks.pdb
